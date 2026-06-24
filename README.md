@@ -93,7 +93,6 @@ API RESTful de exemplo com boas práticas de **CRUD** e documentação.
 ## 🌍 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Caio_Philipe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-philipe)  
-[![Gmail](https://img.shields.io/badge/-caio.philipe.queiroz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:caio.philipe.queiroz@gmail.com)  
 [![DIO](https://img.shields.io/badge/DIO.me-Caio_Philipe_Queiroz-green?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=...)](https://www.dio.me/users/caio_philipe_queiroz)
 
 ---
